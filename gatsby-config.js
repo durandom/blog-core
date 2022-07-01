@@ -18,6 +18,12 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
+      resolve: `@lekoarts/gatsby-theme-minimal-blog-core`,
+      options: {
+        basePath: '/blog'
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,

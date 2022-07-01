@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@lekoarts/gatsby-theme-minimal-blog-core": "^4.1.8",
     "gatsby": "^4.17.2",
     "gatsby-plugin-gatsby-cloud": "^4.17.0",
     "gatsby-plugin-image": "^2.17.0",
